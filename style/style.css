@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    overflow: hidden;
+    background-image: linear-gradient(90deg, rgba(255,255,255,0.1) 1px, transparent 1px),
+                      linear-gradient(rgba(255,255,255,0.1) 1px, transparent 1px);
+    background-size: 50px 50px;
+    background-color: black;
+}
+.hello-world{
+    position: absolute;
+    display: block;
+    text-align: center;
+    white-space: nowrap; 
+    height: 100vh;
+    color: white;
+    font-size: 2rem;
+    visibility: hidden; 
+    opacity: 1;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+    transform: translateY(20px);
+    transform: scale(0.8);
+    transition: 
+        opacity 0.5s ease,
+        text-shadow 0.5s ease-in-out,
+        transform 0.5s ease-in-out;
+}
+
+.one {
+    color: red;
+}
+.two {
+    color: green;
+}
+.three {
+    color: blue;
+}
+.four {
+    color: yellow;
+}
+.five {
+    color: orange;
+}
