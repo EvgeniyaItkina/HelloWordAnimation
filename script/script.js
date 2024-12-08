@@ -5,6 +5,11 @@ const helloWorldElements = [
     document.getElementById('hello-world3'),
     document.getElementById('hello-world4'),
     document.getElementById('hello-world5'),
+    document.getElementById('hello-world6'),
+    document.getElementById('hello-world7'),
+    document.getElementById('hello-world8'),
+    document.getElementById('hello-world9'),
+    document.getElementById('hello-world10'),
 ];
 //hight and width of screen
 const width = window.innerWidth;

@@ -2,6 +2,8 @@
 
 Every junior developer starts with a <u>Hello World</u>. So why not make it interesting?
 This small project showcases an animation where five div elements appear at random positions on the screen with unique timing intervals. Smooth animations, stylish text effects, and a dynamic background bring this project to life.
+And yes, it's fully responsive! 🌟
+
 
 ---
 

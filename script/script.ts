@@ -4,6 +4,11 @@ const helloWorldElements = [
     document.getElementById('hello-world3') as HTMLDivElement,
     document.getElementById('hello-world4') as HTMLDivElement,
     document.getElementById('hello-world5') as HTMLDivElement,
+    document.getElementById('hello-world6') as HTMLDivElement,
+    document.getElementById('hello-world7') as HTMLDivElement,
+    document.getElementById('hello-world8') as HTMLDivElement,
+    document.getElementById('hello-world9') as HTMLDivElement,
+    document.getElementById('hello-world10') as HTMLDivElement,
 ] as Array<HTMLDivElement>;
 
 //hight and width of screen
